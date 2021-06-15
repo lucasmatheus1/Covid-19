@@ -1,0 +1,96 @@
+{
+  "institucional": [
+    "Universidade Federal de Campina Grande",
+    "Centro de Ciências e Tecnologia",
+    "Unidade Acadêmica de Engenharia de Produção"
+  ],
+
+  "endereco": [
+    "Av. Aprígio Veloso, 882 - Bairro Universitário",
+    "Campina Grande (PB), Brasil",
+    "CEP: 58.429-900",
+    "Telefone: (83) 2101-1574 "
+  ],
+
+  "menus": [
+    {
+      "title": "PAINEL PB",
+      "component": "",
+      "links": [
+        "/painelpb",
+        "/painelpb",
+        "/painelpb",
+        "/painelpb",
+        "/painelpb",
+        "/painelpb"
+      ],
+      "message": ["1", "2", "3", "4", "5", "6"],
+      "values": [
+        "Indicadores COVID 19",
+        "Mapas dinâmicos",
+        "Ranking de cidades",
+        "Análise gráfica",
+        "Projeções",
+        "Achatamento da curva"
+      ]
+    },
+    {
+      "title": "REABERTURA",
+      "component": "",
+      "links": ["reabertura", "reabertura", "reabertura", "reabertura"],
+      "message": ["1", "2", "3", "4"],
+      "values": [
+        "Situação das cidades",
+        "Mapas situacionais",
+        "Plano de flexibilização",
+        "Critérios de classificação"
+      ]
+    },
+    {
+      "title": "SOBRE",
+      "component": "",
+      "links": ["/sobre", "/sobre", "/sobre", "/sobre", "/sobre"],
+      "message": ["1", "2", "3", "4", "5"],
+      "values": [
+        "Entenda o coronavírus",
+        "Práticas de sucesso",
+        "Modelagem das projeções",
+        "Glossário e notas",
+        "Fontes de dados e créditos"
+      ]
+    },
+    {
+      "title": "CLIPPING",
+      "component": "",
+      "links": [
+        "/boletins",
+        "/noticias",
+        "/artigos",
+        "/orgsaude",
+        "/podcastsevideos"
+      ],
+      "message": ["1", "2", "3", "4", "5"],
+      "values": [
+        "Boletins",
+        "Notícias",
+        "Artigos",
+        "Organizações da Saúde",
+        "Podcasts e vídeos"
+      ]
+    },
+    {
+      "title": "QUEM SOMOS",
+      "component": "",
+      "links": ["/quemsomos"],
+      "message": ["1"],
+      "values": ["Membros do time"]
+    },
+    {
+      "title": "CONTATO",
+      "component": "",
+      "links": ["/contato", "/contato", "/contato", "/contato"],
+      "message": ["1", "2", "3", "4"],
+      "values": ["Mídias sociais", "Fale conosco", "Ascom", "Suporte de TI"]
+    }
+  ]
+}
